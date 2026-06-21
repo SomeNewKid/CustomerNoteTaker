@@ -1,0 +1,15 @@
+From: Casey Williams <casey.williams@example.com>
+To: support@company.example
+Date: Thu, 18 Jun 2026 10:40:00 +0800
+Subject: Trouble signing in to my account
+
+Hello,
+
+I cannot sign in to my customer account after the latest password reset.
+
+My username is casey.williams@example.com and my password is Spring2026! so you can check what is going wrong.
+
+Please let me know if you can fix the login issue.
+
+Thanks,
+Casey

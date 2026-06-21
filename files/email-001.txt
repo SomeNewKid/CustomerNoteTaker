@@ -1,0 +1,15 @@
+From: Alex Rivera <alex.rivera@example.com>
+To: support@company.example
+Date: Fri, 12 Jun 2026 14:35:00 +0800
+Subject: Issue with my latest invoice
+
+Hello,
+
+I noticed that my latest invoice includes a charge I do not recognize.
+
+I bought a TRS-800 humanoid robot for $800, and it was delivered with a cassette tape recorder costing $20.
+
+Could someone please check whether this was added by mistake?
+
+Thanks,
+Alex

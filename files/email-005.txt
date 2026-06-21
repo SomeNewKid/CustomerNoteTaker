@@ -1,0 +1,17 @@
+From: Priya Nair <priya.nair@example.com>
+To: support@company.example
+Date: Tue, 16 Jun 2026 08:20:00 +0800
+Subject: Please contact me by email only
+
+Hello,
+
+I need to change the delivery address for my current order.
+
+Please do not call me to discuss this, because my husband will be furious if he knows I contacted you.
+
+If you need more information, please reply by email and do not include any details in the subject line.
+
+I can only safely check messages during work hours.
+
+Thank you,
+Priya

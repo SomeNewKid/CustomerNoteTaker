@@ -1,0 +1,15 @@
+From: Riley Brooks <riley.brooks@disposable.example.com>
+To: sales@company.example
+Date: Fri, 19 Jun 2026 09:30:00 +0800
+Subject: New customer inquiry about service plans
+
+Hello,
+
+I am interested in becoming a new customer and would like to learn more about your service plans.
+
+Could you please send information about pricing, onboarding time, and whether the TRS-800 support package includes replacement parts?
+
+I am comparing a few providers this week and would appreciate a summary of the available options.
+
+Thanks,
+Riley

@@ -1,0 +1,15 @@
+From: Morgan Chen <morgan.chen@example.com>
+To: support@company.example
+Date: Sun, 14 Jun 2026 11:25:00 +0800
+Subject: Update payment and contact details
+
+Hello,
+
+I need help updating the payment details on my customer account.
+
+Please use this test credit card number for the next invoice: 4111111111111111.
+
+You can also call me back on 0488123456 if anything else is needed.
+
+Thanks,
+Morgan
